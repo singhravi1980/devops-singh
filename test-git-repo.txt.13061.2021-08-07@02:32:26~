@@ -8,8 +8,3 @@ tmpfs                    2.9G     0  2.9G   0% /sys/fs/cgroup
 /dev/sda1               1014M  185M  830M  19% /boot
 tmpfs                    581M   36K  581M   1% /run/user/0
 total 16
--rw-r--r--. 1 root root  599 Aug  6 18:53 hello.txt
--rw-r--r--. 1 root root    0 Aug  6 18:13 my_output.txt
--rw-r--r--. 1 root root  544 Aug  6 18:19 siva1.yml
--rw-r--r--. 1 root root  345 Aug  6 18:31 test1.yml
--rw-r--r--. 1 root root 1090 Aug  7 02:32 test2.yml
