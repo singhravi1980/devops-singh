@@ -1,8 +1,0 @@
- 
-total 16
--rw-r--r--. 1 root root 599 Aug  6 18:53 hello.txt
--rw-r--r--. 1 root root   0 Aug  6 18:13 my_output.txt
--rw-r--r--. 1 root root 544 Aug  6 18:19 siva1.yml
--rw-r--r--. 1 root root 345 Aug  6 18:31 test1.yml
--rw-r--r--. 1 root root 892 Aug  7 03:13 test2.yml
-Filesystem              Type      Size  Used Avail Use% Mounted on
