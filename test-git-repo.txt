@@ -1,3 +1,0 @@
- 
--rw-r--r--. 1 root root 599 Aug  6 18:53 hello.txt
--rw-r--r--. 1 root root   0 Aug  6 18:13 my_output.txt
