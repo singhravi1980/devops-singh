@@ -7,37 +7,3 @@ tmpfs                   tmpfs     2.9G     0  2.9G   0% /sys/fs/cgroup
 /dev/mapper/centos-root xfs        22G  5.2G   17G  25% /
 /dev/sda1               xfs      1014M  185M  830M  19% /boot
 tmpfs                   tmpfs     581M   36K  581M   1% /run/user/0
-Filesystem              Type      Size  Used Avail Use% Mounted on
-devtmpfs                devtmpfs  2.9G     0  2.9G   0% /dev
-tmpfs                   tmpfs     2.9G  128K  2.9G   1% /dev/shm
-tmpfs                   tmpfs     2.9G  9.5M  2.9G   1% /run
-tmpfs                   tmpfs     2.9G     0  2.9G   0% /sys/fs/cgroup
-/dev/mapper/centos-root xfs        22G  5.2G   17G  25% /
-/dev/sda1               xfs      1014M  185M  830M  19% /boot
-tmpfs                   tmpfs     581M   36K  581M   1% /run/user/0
-total 8
--rw-------. 1 root root 1737 Jul 22 22:40 anaconda-ks.cfg
-drwxr-xr-x. 2 root root    6 Jul 22 22:47 Desktop
-drwxr-xr-x. 2 root root    6 Jul 22 22:47 Documents
-drwxr-xr-x. 2 root root    6 Jul 22 22:47 Downloads
-drwxr-xr-x. 4 root root   38 Aug 11 19:08 git
--rw-r--r--. 1 root root 1785 Jul 22 22:45 initial-setup-ks.cfg
-drwxr-xr-x. 2 root root    6 Jul 22 22:47 Music
-drwxr-xr-x. 2 root root    6 Aug 11 18:27 mygit
-drwxr-xr-x. 2 root root    6 Jul 22 22:47 Pictures
-drwxr-xr-x. 2 root root    6 Jul 22 22:47 Public
-drwxr-xr-x. 2 root root    6 Jul 22 22:47 Templates
-drwxr-xr-x. 2 root root    6 Jul 22 22:47 Videos
-drwxr-xr-x. 2 root root  161 Aug 11 21:05 yml
-total 0
-drwxr-xr-x. 3 root root 49 Aug 11 20:46 devops-singh
-total 0
-drwxr-xr-x. 3 root root 49 Aug 11 20:46 devops-singh
-Filesystem              Type      Size  Used Avail Use% Mounted on
-devtmpfs                devtmpfs  2.9G     0  2.9G   0% /dev
-tmpfs                   tmpfs     2.9G  128K  2.9G   1% /dev/shm
-tmpfs                   tmpfs     2.9G  9.6M  2.9G   1% /run
-tmpfs                   tmpfs     2.9G     0  2.9G   0% /sys/fs/cgroup
-/dev/mapper/centos-root xfs        22G  5.2G   17G  25% /
-/dev/sda1               xfs      1014M  185M  830M  19% /boot
-tmpfs                   tmpfs     581M   36K  581M   1% /run/user/0
