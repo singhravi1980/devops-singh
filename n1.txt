@@ -45,3 +45,14 @@ drwxr-xr-x. 2 root root    6 Jul 27 17:48 Templates
 drwxr-xr-x. 2 root root    6 Jul 27 17:48 Videos
 -rw-r--r--. 1 root root 1.8K Jul 27 17:46 initial-setup-ks.cfg
 -rw-------. 1 root root 1.7K Jul 27 17:45 anaconda-ks.cfg
+total 8.0K
+drwxr-xr-x. 2 root root    6 Jul 27 17:48 Desktop
+drwxr-xr-x. 2 root root    6 Jul 27 17:48 Documents
+drwxr-xr-x. 2 root root    6 Jul 27 17:48 Downloads
+drwxr-xr-x. 2 root root    6 Jul 27 17:48 Music
+drwxr-xr-x. 2 root root    6 Jul 27 17:48 Pictures
+drwxr-xr-x. 2 root root    6 Jul 27 17:48 Public
+drwxr-xr-x. 2 root root    6 Jul 27 17:48 Templates
+drwxr-xr-x. 2 root root    6 Jul 27 17:48 Videos
+-rw-r--r--. 1 root root 1.8K Jul 27 17:46 initial-setup-ks.cfg
+-rw-------. 1 root root 1.7K Jul 27 17:45 anaconda-ks.cfg
