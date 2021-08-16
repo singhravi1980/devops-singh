@@ -15,3 +15,11 @@ tmpfs                    2.9G     0  2.9G   0% /sys/fs/cgroup
 /dev/mapper/centos-root   22G  4.8G   17G  22% /
 /dev/sda1               1014M  185M  830M  19% /boot
 tmpfs                    581M   40K  581M   1% /run/user/0
+Filesystem               Size  Used Avail Use% Mounted on
+devtmpfs                 2.9G     0  2.9G   0% /dev
+tmpfs                    2.9G     0  2.9G   0% /dev/shm
+tmpfs                    2.9G   18M  2.9G   1% /run
+tmpfs                    2.9G     0  2.9G   0% /sys/fs/cgroup
+/dev/mapper/centos-root   22G  4.8G   17G  22% /
+/dev/sda1               1014M  185M  830M  19% /boot
+tmpfs                    581M   40K  581M   1% /run/user/0
